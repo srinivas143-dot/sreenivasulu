@@ -27,8 +27,8 @@
 ---
 
 ## 📫 How to reach me
-- Email: your-email@example.com  
-- Portfolio: [your-portfolio-link](https://example.com)
+- Email: vibey.sreenu@gmail.com  
+- Portfolio: [your-portfolio-link]()
 
 ---
 
@@ -38,7 +38,7 @@ I ❤ coding and 🎮 gaming
 ---
 
 ## 📰 Blog posts
-- [How I built my first e-commerce project](https://example.com)
+- [How I built my first e-commerce project]()
 - [Understanding SQL for beginners](https://example.com)
 - [Frontend vs Backend: My journey](https://example.com)
 
@@ -47,8 +47,8 @@ I ❤ coding and 🎮 gaming
 ## 🌐 Connect with me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/username)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)]()
 
 ---
 
